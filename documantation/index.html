@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Support Theme</title>
+<title>Support Theme Documentation</title>
 
 <meta name = "keywords" content = "" />
 <meta name = "description" content = "" />
@@ -50,7 +50,7 @@ $(document).ready( function() {
 
 		<div class="inner">
 			<h1>Support Theme - Free Q2A Theme </h1>
-			<p>Created & Documentation by &ldquo;<a href="http://towhidn.com/" title="freelance Q2A developer" style="color: rgb(34, 34, 136);">Towhid</a>&rdquo;  - Provided by <a href="http://QA-Themes.com/" style="color: rgb(34, 34, 136);" title="Question2Answer Themes">Q2A Themes</a></p>
+			<p>Created & Documented by &ldquo;<a href="http://towhidn.com/" title="freelance Q2A developer" style="color: rgb(34, 34, 136);">Towhid</a>&rdquo;  - Provided by <a href="http://QA-Themes.com/" style="color: rgb(34, 34, 136);" title="Question2Answer Themes">Q2A Themes</a></p>
 			<small>v2.0.0</small>
 		</div>
 		<br class="clear">
