@@ -2,7 +2,7 @@
 class qa_html_theme_layer extends qa_html_theme_base {
 	var $theme_directory;
 	var $theme_url;
-	function qa_html_theme_layer($template, $content, $rooturl, $request)
+	function __construct($template, $content, $rooturl, $request)
 	{
 		global $qa_layers;
 		$this->theme_directory = $qa_layers['Theme Options']['directory'];
